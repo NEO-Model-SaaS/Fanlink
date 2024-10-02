@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Fanlink",
+    "version": "1.0",
+    "description": "Restreindre les accès aux informations sensibles aux délégations des tâches",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": [
+        "https://*.fanvue.com/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+    {
+        "matches": ["https://*.fanvue.com/*"],
+        "js": ["content.js"]
+    }
+  ]
+}
