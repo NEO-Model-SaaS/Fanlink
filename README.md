@@ -1,57 +1,37 @@
 ## Politique de Confidentialité de FANLINK
 
-*Dernière mise à jour : 02 Octobre 2024*
+**Dernière mise à jour : 03/10/2024**
 
 ### Introduction
 
-Bienvenue sur l’extension Chrome FANLINK. La protection de vos données personnelles est une priorité pour nous. Cette politique de confidentialité décrit comment nous collectons, utilisons et protégeons les informations des utilisateurs dans le cadre de notre extension.
+Bienvenue sur l'extension Chrome FANLINK. Nous nous engageons à protéger la confidentialité de nos utilisateurs. Cette politique de confidentialité explique que FANLINK ne collecte aucune donnée personnelle dans le cadre de son utilisation.
 
-### Données Collectées
+### Fonctionnalités de l'extension
 
-Nous collectons les types de données suivants lorsque vous utilisez l'extension FANLINK :
+FANLINK offre les fonctionnalités suivantes sans collecte de données personnelles :
 
-1. *Données de localisation :* Nous collectons des informations sur votre localisation afin d'améliorer les fonctionnalités de l'extension et vous proposer des contenus pertinents.
+1. **Masquer le menu paramètres sur www.fanvue.com :** Cette fonctionnalité permet de masquer l'accès au menu de paramètres sur la plateforme Fanvue pour une expérience utilisateur simplifiée.
    
-2. *Activités de traçabilité :* Nous recueillons des informations sur vos interactions avec l'extension pour vous offrir une expérience personnalisée, améliorer la sécurité et optimiser nos services.
-   
-3. *Pseudos et e-mails :* Nous collectons votre pseudo et votre adresse e-mail pour vous identifier en tant qu'utilisateur et faciliter la gestion de votre compte, ainsi que pour vous fournir un support si nécessaire.
+2. **Bloquer l'accès via URL (/settings) :** L'extension empêche également l'accès direct à la page des paramètres via l'URL "/settings" sur Fanvue.
 
 ### Utilisation des Données
 
-Les informations que nous collectons sont utilisées pour :
-
-- Améliorer et personnaliser votre expérience avec FANLINK.
-- Assurer la sécurité de vos informations personnelles.
-- Vous envoyer des notifications importantes concernant la sécurité et les mises à jour de l’extension.
-- Analyser l’usage de l’extension afin d'améliorer ses performances et sa fonctionnalité.
-
-### Partage des Données
-
-Nous nous engageons à ne pas vendre ou partager vos données personnelles avec des tiers, sauf dans les cas suivants :
-
-- *Obligations légales :* Si la loi l'exige, nous pouvons divulguer vos informations personnelles aux autorités compétentes.
-- *Prestataires de services :* Nous pouvons partager des informations avec des prestataires tiers uniquement dans le cadre de services strictement nécessaires au fonctionnement de l'extension, tout en respectant les normes de confidentialité et de sécurité.
+Nous ne collectons, ne stockons ni ne partageons aucune donnée personnelle. FANLINK fonctionne uniquement au niveau de l'interface utilisateur sans interagir avec des informations personnelles ou des données sensibles.
 
 ### Sécurité des Données
 
-Nous mettons en œuvre des mesures techniques et organisationnelles adaptées pour protéger vos données contre toute forme de perte, d'accès non autorisé, ou d'utilisation abusive. Cependant, aucune transmission de données sur Internet n'est complètement sécurisée, et nous ne pouvons garantir une sécurité absolue.
+Bien que nous ne collectons aucune donnée, nous prenons la sécurité des utilisateurs au sérieux et veillons à ce que l'extension soit sécurisée et respecte les normes en vigueur.
 
 ### Vos Droits
 
-En tant qu’utilisateur, vous disposez des droits suivants concernant vos données :
-
-- *Accès :* Vous pouvez demander une copie des données personnelles que nous détenons sur vous.
-- *Rectification :* Vous pouvez demander la correction de vos données si elles sont inexactes ou incomplètes.
-- *Suppression :* Vous pouvez demander la suppression de vos données personnelles sous certaines conditions.
-
-Pour exercer ces droits, veuillez nous contacter à l'adresse suivante : [votre adresse e-mail de contact].
+Puisque nous ne collectons aucune donnée, vous n'avez pas besoin d'exercer de droits relatifs à la protection des données personnelles.
 
 ### Modifications de la Politique de Confidentialité
 
-Nous nous réservons le droit de mettre à jour cette politique de confidentialité de temps en temps. Toute modification sera publiée sur cette page avec une date de mise à jour.
+Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Toute modification sera publiée sur cette page avec une date de mise à jour.
 
 ### Contact
 
-Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à : aguenifi9@gmail.com.
+Si vous avez des questions concernant cette politique de confidentialité ou le fonctionnement de l'extension, veuillez nous contacter à : aguenifi9@gmail.com
 
 ---
