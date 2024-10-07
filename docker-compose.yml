@@ -1,7 +1,0 @@
-name: fanlink
-services:
-  node:
-    image: node:lts
-    volumes:
-      - .:/application
-    command: ["tail", "-f", "/dev/null"]

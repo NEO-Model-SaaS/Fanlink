@@ -1,19 +1,42 @@
 {
     "manifest_version": 3,
     "name": "Fanlink",
-    "version": "1.0",
-    "description": "Restreindre les accès aux informations sensibles aux délégations des tâches",
-    "permissions": ["activeTab", "scripting"],
+    "version": "1.1",
+    "description": "Extension pour restreindre l'accès à certaines fonctionnalités sur Fanvue.",
+    "permissions": [
+        "scripting",
+        "tabs",
+        "storage",
+        "activeTab"
+    ],
     "host_permissions": [
+        "https://api.ip2location.io/*",
         "https://*.fanvue.com/*"
     ],
     "background": {
-        "service_worker": "background.js"
+        "service_worker": "scripts/background.js"
     },
     "content_scripts": [
-    {
-        "matches": ["https://*.fanvue.com/*"],
-        "js": ["content.js"]
+        {
+            "matches": [
+                "https://*.fanvue.com/*"
+            ],
+            "js": [
+                "scripts/content.js"
+            ]
+        }
+    ],
+    "action": {
+        "default_popup": "static/popup.html",
+        "default_icon": {
+            "16": "static/img/icon16.png",
+            "48": "static/img/icon48.png",
+            "128": "static/img/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "static/img/icon16.png",
+        "48": "static/img/icon48.png",
+        "128": "static/img/icon128.png"
     }
-  ]
 }
